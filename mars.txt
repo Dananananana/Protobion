@@ -3,4 +3,8 @@ the two moons may be a problem for Wolfman
 There might be a giant lake under the ice
 is it full of fish?
 Mars is still cold
+<<<<<<< HEAD
 lies!
+=======
+Now it's even colder
+>>>>>>> 6b312cee4c971548fb484fc09683e48e5c5c97da
